@@ -9,6 +9,7 @@ QR코드 스캐너 코드 작성
 <br>
 info.plist파일도 수정해야 동작
 <br><br><hr><br><br>
+
 # QRreader
 <h3>2021.01.05</h3>
 QR코드 스캐너 코드 작성
